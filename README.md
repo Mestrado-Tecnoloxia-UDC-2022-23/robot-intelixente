@@ -26,3 +26,20 @@ interpretar esos datos recogidos del sensor, los comprueba con el código que le
 hemos introducido y determina que ruta elegir.
 
 La alimentación del robot es a pilas, en este caso 4 pilas de 1.5V.
+
+## Materiales
+
+![Materiales Robot](resources/materiales.png)
+
+- Un chasis de coche
+- Dos ruedas motrices
+- Rueda central
+- Dos motores de corriente continua de 48V
+- Cuatro soportes laterales del motor
+- Caja de baterías para 4 pilas alcalinas AA
+- Interruptor ON/OFF
+- Una placa Arduino UNO R3
+- Una placa SG90
+- Una placa FPV
+- Módulo controlador L298N
+- Tornillería
