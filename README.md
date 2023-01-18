@@ -48,3 +48,8 @@ La alimentación del robot es a pilas, en este caso 4 pilas de 1.5V.
 - Una placa FPV
 - Módulo controlador L298N
 - Tornillería
+
+## Software
+
+- [Arduino IDE](https://www.arduino.cc/en/software/)
+- [NewPing library](https://bitbucket.org/teckel12/arduino-new-ping/downloads/) version v1.9.1.
